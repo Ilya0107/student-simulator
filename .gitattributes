@@ -1,0 +1,16 @@
+# Normalize line endings (Windows-oriented project)
+* text=auto eol=crlf
+
+# C++ sources are UTF-8
+*.cpp   text eol=crlf
+*.h     text eol=crlf
+
+# Visual Studio project files
+*.sln            text eol=crlf
+*.vcxproj        text eol=crlf
+*.vcxproj.filters text eol=crlf
+
+# Documentation and assets use LF
+*.md    text eol=lf
+*.svg   text eol=lf
+LICENSE text eol=lf

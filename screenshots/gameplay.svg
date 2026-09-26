@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="600" viewBox="0 0 780 600" role="img" aria-label="student-simulator gameplay in the Windows console">
+  <defs>
+    <style>
+      .mono { font-family: 'Cascadia Mono', Consolas, 'Courier New', monospace; font-size: 13px; }
+      .n { fill: #c9d1d9; }
+      .d { fill: #8b949e; }
+      .m { fill: #d2a8ff; }
+      .c { fill: #39c5cf; }
+      .g { fill: #3fb950; }
+      .y { fill: #d29922; }
+      .r { fill: #f85149; }
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; fill: #c9d1d9; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="778" height="598" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <path d="M1 11 A10 10 0 0 1 11 1 H769 A10 10 0 0 1 779 11 V36 H1 Z" fill="#161b22"/>
+  <line x1="1" y1="36.5" x2="779" y2="36.5" stroke="#30363d"/>
+  <circle cx="22" cy="18.5" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="18.5" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="18.5" r="6" fill="#27c93f"/>
+  <text class="title" x="390" y="23" text-anchor="middle">student-simulator.exe</text>
+
+  <text class="mono n" x="18" y="66">Ты просыпаешься одним прекрасным летним днём в комнате общежития.</text>
+  <text class="mono n" x="18" y="85">За окном светит солнце, на столе лежат пустые тетради, а в телефоне</text>
+  <text class="mono n" x="18" y="104">горит сообщение от старосты: «До сессии осталось 10 дней».</text>
+  <text class="mono n" x="18" y="142">Выбери персонажа:</text>
+  <text class="mono n" x="18" y="161">       1. Василий Щукин (40 здоровья, 55 знаний, 300 руб.)</text>
+  <text class="mono n" x="18" y="180">       2. Анастасия Олеговна (80 здоровья, 5 знаний, 600 руб.)</text>
+  <text class="mono n" x="18" y="199">Твой выбор: 1</text>
+  <text class="mono n" x="18" y="237">Выбери бонус перед началом:</text>
+  <text class="mono n" x="18" y="256">1. Бабушка прислала перевод — +200 денег, -5 здоровья</text>
+  <text class="mono n" x="18" y="275">2. Конспекты однокурсника — +10 знаний, -100 денег</text>
+  <text class="mono n" x="18" y="294">3. Поход в спортзал с другом — +10 здоровья, -3 знания</text>
+  <text class="mono n" x="18" y="313">Твой выбор: 3</text>
+
+  <text class="mono m" x="18" y="351">------------------------------День 1. Будильник в общаге------------------------------</text>
+  <text class="mono c" x="18" y="370">--------------------------------------------------------------------------------</text>
+  <text class="mono n" x="18" y="389">Текущее состояние:</text>
+  <text class="mono n" x="18" y="408">| Здоровье: <tspan class="y">50</tspan>| | Знания: <tspan class="y">52</tspan>| | Деньги: <tspan class="y">300</tspan></text>
+  <text class="mono c" x="18" y="427">--------------------------------------------------------------------------------</text>
+  <text class="mono n" x="18" y="446">Локация: Общежитие</text>
+  <text class="mono n" x="18" y="465">Ты просыпаешься от будильника. Первая мысль — выключить его и спать дальше.</text>
+  <text class="mono n" x="18" y="484">    1.Пойти на пары. День проходит тяжело, но полезно.</text>
+  <text class="mono n" x="18" y="503">    2.Спать дальше. Ты высыпаешься, но пропускаешь важную тему.</text>
+  <text class="mono n" x="18" y="522">    3.Пойти на работу вместо пар.</text>
+  <text class="mono n" x="18" y="541">Ваш выбор: 1</text>
+  <text class="mono n" x="18" y="560">Эффекты дня:</text>
+  <text class="mono n" x="18" y="579">Здоровье <tspan class="r">-6</tspan>| Знания <tspan class="g">+8</tspan>| Деньги <tspan class="r">-20</tspan></text>
+</svg>
