@@ -112,6 +112,7 @@ Russian-language docs live in [`docs/`](docs/):
 - `BALANCE.md` — day/dream effects, grade and bribe formulas.
 - `ENDINGS.md` — every ending and how to reach it.
 - `ARCHITECTURE.md` — architecture, modules and technical decisions.
+- `ROADMAP.md` — planned architecture improvements.
 
 ## Tech stack
 

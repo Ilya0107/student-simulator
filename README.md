@@ -108,6 +108,7 @@ student-simulator/
 - [`docs/BALANCE.md`](docs/BALANCE.md) — все эффекты дней, снов, формулы оценок и подкупа.
 - [`docs/ENDINGS.md`](docs/ENDINGS.md) — все концовки и условия их получения.
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — архитектура, модули и технические решения.
+- [`docs/ROADMAP.md`](docs/ROADMAP.md) — план развития и улучшения архитектуры.
 
 ## Технологии
 
